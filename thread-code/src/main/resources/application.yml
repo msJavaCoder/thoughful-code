@@ -1,0 +1,9 @@
+spring:
+  application:
+   name: thread-code
+
+
+server:
+  port: 8082
+
+
