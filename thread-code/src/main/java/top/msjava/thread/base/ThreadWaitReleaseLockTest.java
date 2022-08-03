@@ -1,4 +1,4 @@
-package top.msjava.thread.test;
+package top.msjava.thread.base;
 
 /**
  * @BelongsProject: thoughtful-code

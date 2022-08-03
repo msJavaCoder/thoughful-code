@@ -1,8 +1,6 @@
 spring:
   application:
-   name: thread-code
-
-
+    name: thread-code
 server:
   port: 8082
 

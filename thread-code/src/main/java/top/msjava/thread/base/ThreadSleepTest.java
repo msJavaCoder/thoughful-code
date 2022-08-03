@@ -1,4 +1,4 @@
-package top.msjava.thread.test;
+package top.msjava.thread.base;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
